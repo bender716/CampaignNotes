@@ -8,18 +8,23 @@ Requirements, installation steps (including setup for mobile), tips and tricks, 
 
 For mobile users see [Mobile](#mobile) section below.
 
-### TL;DR
+### TL;DR (not part of the author's documentation, just what I did)
+It is recommended to read the plug in documentation but here are some pointers to get you started.
 #### Windows
-1. Install latest version of Git 
+1. Install latest version of Git, use recommended options at minimum
 2. Create a GitHub account
 3. Create an empty repo for your campaign notes
+	1. Note, you may wish to use a private repo for this. If you do, you may encounter credential issues. Refer to the main documentation for help.
 4. Press CTRL+P
 5. Type 'git: Clone and existing remote repo'
 6. Enter the URL of your repo and click on it when it pops up
 7. Type Git and click on it when it pops up.
 8. Click on the empty highlighted box.
 9. In file manager, move all the files back from the file manager to the vaults root folder
-10. 
+
+To Update your campaign repo, using the CTRL+P menu
+1. git: Commit All
+2. git: push
 
 ## Highlighted Features
 
