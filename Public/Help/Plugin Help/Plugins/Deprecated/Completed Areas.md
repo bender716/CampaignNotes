@@ -1,0 +1,1 @@
+I stopped recommending this as it is very inconsistent for me and hasn't been updated in years. I have found complaints on Reddit from a few years back complaining of the issues and nothing has been done to address them so I am now doing this manually. It is not a huge loss I find.
